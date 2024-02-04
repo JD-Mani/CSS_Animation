@@ -1,4 +1,4 @@
-# Project1
+# Project 1
 
 ### Photo Frame Hover Effects
 I am gonna showing to you how to Photo Frame Hover Effects in CSS .
